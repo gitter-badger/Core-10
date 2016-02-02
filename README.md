@@ -1,6 +1,8 @@
 Cloud9 3.0 SDK for Plugin Development
 ======================================
 
+[![Join the chat at https://gitter.im/MojtabaMonfared/core](https://badges.gitter.im/MojtabaMonfared/core.svg)](https://gitter.im/MojtabaMonfared/core?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is the core repository for the Cloud9 v3 SDK. The SDK allows you to run a version of Cloud9 that allows you to develop plugins and create a custom IDE based on Cloud9.
  
 #### Project Status: *ALPHA*
